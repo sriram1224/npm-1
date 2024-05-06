@@ -1,0 +1,11 @@
+{
+  "name": "npm-1",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "app.js",
+  "author": "sriram",
+  "license": "ISC",
+  "dependencies": {
+    "array-utils": "^0.0.6"
+  }
+}
